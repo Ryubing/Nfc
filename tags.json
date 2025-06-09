@@ -48342,6 +48342,126 @@
             },
             "tail": "042e0002",
             "type": "Figure"
+        },
+		{
+			"amiiboSeries": "Legend Of Zelda",
+			"character": "Tulin",
+			"gameSeries": "The Legend of Zelda",
+			"gamesSwitch": [
+				{
+					"amiiboUsage": [
+						{
+							"Usage": "Has a chance to drop the exclusive Sage of Wind Fabric",
+							"write": false
+						}
+					],
+					"gameID": [
+						"0100F2C0115B6000"
+					],
+					"gameName": "The Legend of Zelda: Tears of the Kingdom"
+				}
+			], 
+			"head": "010b0000",
+			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_010b0000-04a50902.png",
+			"name": "Tulin",
+			"release": {
+				"au": "2025-06-05",
+				"eu": "2025-06-05",
+				"jp": "2025-06-05",
+				"na": "2025-06-05"
+			},
+			"tail": "04a50902",
+			"type": "Figure"
+		},
+		{
+			"amiiboSeries": "Legend Of Zelda",
+			"character": "Yunobo",
+			"gameSeries": "The Legend of Zelda",
+			"gamesSwitch": [
+				{
+					"amiiboUsage": [
+						{
+							"Usage": "Has a chance to drop the exclusive Sage of Fire Fabric",
+							"write": false
+						}
+					],
+					"gameID": [
+						"0100F2C0115B6000"
+					],
+					"gameName": "The Legend of Zelda: Tears of the Kingdom"
+				}
+			],
+			"head": "010c0000",
+			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_010c0000-04a60902.png",
+			"name": "Yunobo",
+			"release": {
+				"au": "2025-06-05",
+				"eu": "2025-06-05",
+				"jp": "2025-06-05",
+				"na": "2025-06-05"
+			},
+			"tail": "04a60902",
+			"type": "Figure"
+		},
+		{
+			"amiiboSeries": "Legend Of Zelda",
+			"character": "Sidon",
+			"gameSeries": "The Legend of Zelda",
+			"gamesSwitch": [
+				{
+					"amiiboUsage": [
+						{
+							"Usage": "Has a chance to drop the exclusive Sage of Water Fabric",
+							"write": false
+						}
+					],
+					"gameID": [
+						"0100F2C0115B6000"
+					],
+					"gameName": "The Legend of Zelda: Tears of the Kingdom"
+				}
+			],
+			"head": "010a0000",
+			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_010a0000-04a40902.png",
+			"name": "Sidon",
+			"release": {
+				"au": "2025-06-05",
+				"eu": "2025-06-05",
+				"jp": "2025-06-05",
+				"na": "2025-06-05"
+			},
+			"tail": "04a40902",
+			"type": "Figure"
+		},
+		{
+			"amiiboSeries": "Legend Of Zelda",
+			"character": "Riju",
+			"gameSeries": "The Legend of Zelda",
+			"gamesSwitch": [
+				{
+					"amiiboUsage": [
+						{
+							"Usage": "Has a chance to drop the exclusive Sage of Lightning Fabric",
+							"write": false
+						}
+					],
+					"gameID": [
+						"0100F2C0115B6000"
+					],
+					"gameName": "The Legend of Zelda: Tears of the Kingdom"
+				}
+			],
+			"head": "01090000",
+			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01090000-04a30902.png",
+			"name": "Riju",
+			"release": {
+				"au": "2025-06-05",
+				"eu": "2025-06-05",
+				"jp": "2025-06-05",
+				"na": "2025-06-05"
+			},
+			"tail": "04a30902",
+			"type": "Figure"
         }
     ],
     "lastUpdated": "2025-03-12T14:08:00.000000"
