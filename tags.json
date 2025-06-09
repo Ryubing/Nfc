@@ -23262,6 +23262,18 @@
                         "01008CF01BAAC000"
                     ],
                     "gameName": "The Legend of Zelda: Echoes of Wisdom"
+		},
+                {
+		     "amiiboUsage": [
+                    	{
+                              "Usage": "Has a chance to drop the Fierce Deity armor set and the Fierce Deity Greatsword",
+                              "write": false
+                     	}
+		     ],
+		     "gameID": [
+			 "01007EF00011E000"
+		     ],
+		     "gameName": "The Legend of Zelda: Breath of the Wild"
                 }
             ],
             "head": "01000000",
