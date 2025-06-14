@@ -48374,7 +48374,7 @@
 				}
 			], 
 			"head": "010b0000",
-			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_010b0000-04a50902.png",
+			"image": "https://raw.githubusercontent.com/Ryubing/Nfc/refs/heads/main/images/icon_010b0000-04a50902.png",
 			"name": "Tulin",
 			"release": {
 				"au": "2025-06-05",
@@ -48404,7 +48404,7 @@
 				}
 			],
 			"head": "010c0000",
-			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_010c0000-04a60902.png",
+			"image": "https://raw.githubusercontent.com/Ryubing/Nfc/refs/heads/main/images/icon_010c0000-04a60902.png",
 			"name": "Yunobo",
 			"release": {
 				"au": "2025-06-05",
@@ -48434,7 +48434,7 @@
 				}
 			],
 			"head": "010a0000",
-			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_010a0000-04a40902.png",
+			"image": "https://raw.githubusercontent.com/Ryubing/Nfc/refs/heads/main/images/icon_010a0000-04a40902.png",
 			"name": "Sidon",
 			"release": {
 				"au": "2025-06-05",
@@ -48464,7 +48464,7 @@
 				}
 			],
 			"head": "01090000",
-			"image": "https://raw.githubusercontent.com/N3evin/AmiiboAPI/master/images/icon_01090000-04a30902.png",
+			"image": "https://raw.githubusercontent.com/Ryubing/Nfc/refs/heads/main/images/icon_01090000-04a30902.png",
 			"name": "Riju",
 			"release": {
 				"au": "2025-06-05",
@@ -48494,7 +48494,7 @@
 				}
 			],
 			"head": "010D0000",
-			"image": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/mineru-s-construct-97ed7d1010558ea1449e71e89499ce1845c5f4d9884728a6b17384cf30a2d2de.png",
+			"image": "https://raw.githubusercontent.com/Ryubing/Nfc/refs/heads/main/images/icon_010d0000-04a70902.png",
 			"name": "Mineru's Construct",
 			"release": {
 				"au": "2025-06-05",
