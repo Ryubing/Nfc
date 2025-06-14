@@ -48474,6 +48474,36 @@
 			},
 			"tail": "04a30902",
 			"type": "Figure"
+		},
+		{
+			"amiiboSeries": "Legend Of Zelda",
+			"character": "Mineru's Construct",
+			"gameSeries": "The Legend of Zelda",
+			"gamesSwitch": [
+				{
+					"amiiboUsage": [
+						{
+							"Usage": "Has a chance to drop the exclusive Sage of Spirit Fabric",
+							"write": false
+						}
+					],
+					"gameID": [
+						"0100F2C0115B6000"
+					],
+					"gameName": "The Legend of Zelda: Tears of the Kingdom"
+				}
+			],
+			"head": "010D0000",
+			"image": "https://amiibo.life/assets/figures/amiibo/the-legend-of-zelda/mineru-s-construct-97ed7d1010558ea1449e71e89499ce1845c5f4d9884728a6b17384cf30a2d2de.png",
+			"name": "Mineru's Construct",
+			"release": {
+				"au": "2025-06-05",
+				"eu": "2025-06-05",
+				"jp": "2025-06-05",
+				"na": "2025-06-05"
+			},
+			"tail": "04A70902",
+			"type": "Figure"	
 		}
     ],
     "lastUpdated": "2025-03-12T14:08:00.000000"
