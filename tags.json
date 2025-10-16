@@ -23266,7 +23266,7 @@
                 {
 					"amiiboUsage": [
                     {
-                        "Usage": "Has a chance to drop the Fierce Deity armor set and the Fierce Deity Greatsword",
+                        "Usage": "Receive materials and a rare or exclusive item",
                          "write": false
                      }
 					],
@@ -48363,7 +48363,7 @@
 				{
 					"amiiboUsage": [
 						{
-							"Usage": "Has a chance to drop the exclusive Sage of Wind Fabric",
+							"Usage": "Unlock an amiibo-exclusive character-specific paraglider fabric",
 							"write": false
 						}
 					],
@@ -48393,7 +48393,7 @@
 				{
 					"amiiboUsage": [
 						{
-							"Usage": "Has a chance to drop the exclusive Sage of Fire Fabric",
+							"Usage": "Unlock an amiibo-exclusive character-specific paraglider fabric",
 							"write": false
 						}
 					],
@@ -48423,7 +48423,7 @@
 				{
 					"amiiboUsage": [
 						{
-							"Usage": "Has a chance to drop the exclusive Sage of Water Fabric",
+							"Usage": "Unlock an amiibo-exclusive character-specific paraglider fabric",
 							"write": false
 						}
 					],
@@ -48453,7 +48453,7 @@
 				{
 					"amiiboUsage": [
 						{
-							"Usage": "Has a chance to drop the exclusive Sage of Lightning Fabric",
+							"Usage": "Unlock an amiibo-exclusive character-specific paraglider fabric",
 							"write": false
 						}
 					],
